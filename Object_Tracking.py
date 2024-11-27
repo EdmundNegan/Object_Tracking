@@ -421,7 +421,6 @@ try:
     print("starting loop")
     while True:
         frame = vs.read()
-        target_positions, new_frame = [], None
         if mode == 'face':
             target_positions, new_frame = find_faces_dnn(frame)
         elif mode == 'object':
@@ -434,6 +433,8 @@ try:
             robot_position = move_to_face(target_positions, robot_position)
         if cv2.waitKey(1) & 0xFF == ord('q'):    
             print("exiting loop")
+            vs.stop()  # Stop the VideoStream
+            cv2.destroyAllWindows()  # Close all OpenCV windows
             break
 except KeyboardInterrupt:
     print("closing robot connection")
