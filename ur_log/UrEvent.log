@@ -290,3 +290,81 @@
 2024-11-27 19:45:23,148 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 544.02 - 9.999999999990905 milliseconds since last package
 2024-11-27 19:45:25,149 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 545.564 - 9.999999999990905 milliseconds since last package
 2024-11-27 19:45:41,397 - URBasic_realTimeClientEvent - ERROR - SendProgram: Program Stopped but not finiched!!!
+2024-12-01 17:45:25,396 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:26,398 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:27,398 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:28,399 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:29,400 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:30,400 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:31,401 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:32,402 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:33,402 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:34,402 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:35,403 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:36,403 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:37,405 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:38,406 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:39,407 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:40,408 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:41,408 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:42,409 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:43,409 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:44,409 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:45,410 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:46,411 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:47,411 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:48,412 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:49,412 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:50,413 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:51,414 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:52,414 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:53,414 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:54,415 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:55,415 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:56,415 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:57,416 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:58,417 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:45:59,418 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:00,419 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:01,419 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:02,421 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:03,422 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:04,422 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:05,423 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:06,423 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:07,424 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:08,424 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:09,425 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:10,425 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:11,426 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:12,426 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:13,428 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:14,428 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:15,429 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:16,430 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:17,430 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:18,430 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:19,430 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:20,431 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:21,433 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:22,443 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:23,444 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:24,460 - URBasic_realTimeClientEvent - ERROR - RTC connecting
+2024-12-01 17:46:26,469 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:28,470 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:30,481 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:32,494 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:34,504 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:36,517 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:38,523 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:40,525 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:42,526 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:44,528 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:46,538 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:48,549 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:50,552 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:46:52,554 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-12-01 17:51:53,830 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 73.17 - 10.000000000005116 milliseconds since last package
+2024-12-01 17:52:56,102 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 124.268 - 10.000000000005116 milliseconds since last package
+2024-12-01 17:54:11,517 - URBasic_realTimeClientEvent - ERROR - SendProgram: Program Stopped but not finiched!!!
+2024-12-01 17:55:13,951 - URBasic_realTimeClientEvent - ERROR - SendProgram: Program Stopped but not finiched!!!
