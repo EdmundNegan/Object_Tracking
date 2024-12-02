@@ -66,6 +66,7 @@ try:
             robot_position = move_to_face(target_positions, robot_position, robot, origin)
         if cv2.waitKey(1) & 0xFF == ord('q'):    
             print("exiting loop")
+            robot.close() # Close the robot connection
             vs.stop()  # Stop the VideoStream
             cv2.destroyAllWindows()  # Close all OpenCV windows
             break

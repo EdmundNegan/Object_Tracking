@@ -25,7 +25,7 @@ def set_lookorigin(robot):
             characterises location and rotation of the new coordinate system in reference to the base coordinate system
 
     """
-    position = robot.get_actual_tcp_pose()
+    position = robot.get_actual_tcp_pose()   
     orig = m3d.Transform(position)
     return orig
 
@@ -71,7 +71,9 @@ def move_to_face(list_of_facepos,robot_pos, robot, origin):
     position_vec_coords = m3d.Transform(tcp_orient, xyz_coords)
 
     oriented_xyz = origin * position_vec_coords
-    oriented_xyz_coord = oriented_xyz.get_pose_vector()
+    position = oriented_xyz.get_pos()  # Returns [x, y, z]
+    orientation = oriented_xyz.get_orient().rotation_vector.array_ref  # Returns [rx, ry, rz]
+    oriented_xyz_coord = list(position) + list(orientation)  # Combines into [x, y, z, rx, ry, rz]
 
     coordinates = oriented_xyz_coord
 
